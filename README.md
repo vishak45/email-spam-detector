@@ -55,3 +55,16 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
+
+## 📄 License
+
+This project is licensed under the MIT License .
+
+---
+---
+
+## Author
+
+**Vishak**
+[GitHub Profile](https://github.com/vishak45)
+
