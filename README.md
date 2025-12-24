@@ -35,57 +35,23 @@ A machine learning project to classify emails as **Spam** or **Ham** using **TF-
 ## 🧪 Train-Test Split
 
 - 80% training, 20% testing
-- `random_state=0` for reproducibility
+
 
 ---
 
-## 📊 Evaluation
-
-- **Accuracy:** Measures overall prediction correctness
-- **Optional:** Use `classification_report` to check **precision, recall, and F1-score**
-
-```python
-from sklearn.metrics import classification_report
-print(classification_report(y_test, y_pred, target_names=['Ham','Spam']))
-```
-🚀 Usage
+##🚀 Usage
 Clone the repository:
 
-bash
-Copy code
+
+```
 git clone https://github.com/vishak45/email-spam-detector
 cd email-spam-detector
-
+```
 
 Install dependencies:
 
-bash
-Copy code
+
 ```
 pip install -r requirements.txt
 ```
 
-🛠 Technology Stack
-
-Python 3.x
-
-Pandas
-
-Scikit-learn
-
-Matplotlib / Seaborn
-
-TF-IDF Vectorization
-
-⚡ Future Improvements
-Handle imbalanced datasets with SMOTE or class weighting
-
-Use deep learning models like LSTM or BERT for better accuracy
-
-Deploy as a web API using Flask or FastAPI
-
-Add GUI or CLI interface for real-time email classification
-
-🔗 Author
-Vishak45
-GitHub Profile
