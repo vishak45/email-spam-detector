@@ -39,7 +39,7 @@ A machine learning project to classify emails as **Spam** or **Ham** using **TF-
 
 ---
 
-##🚀 Usage
+## 🚀 Usage
 Clone the repository:
 
 
